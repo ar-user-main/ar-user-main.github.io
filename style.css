@@ -14,5 +14,7 @@ p {
 }
 body {
   background-color: lightblue;
+}
+.compact {  
   margin: 10px 40px 10px;
 }
